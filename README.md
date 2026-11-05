@@ -1,6 +1,8 @@
-# Twelve Trips: Group Travel Website (UI/UX Design)
+# Twelve Trips: Group Travel Website (UI/UX Design + Working App)
 
 **Twelve Trips** is a concept website for a travel office that takes **one group to a new country every month**. I designed the full booking journey in Figma: discovering the brand, browsing past trips, exploring the next destination, and booking a seat.
+
+> **Now built:** the design is implemented as a working full-stack app (React + Express + SQLite) in [`app/`](app/). Account sign-up, trip pages and the 3-step booking flow work end to end. See [`app/README.md`](app/README.md) to run it. Concept project: no real payments.
 
 🔗 **[Open the Figma file](https://www.figma.com/design/6SG0s6eya6TDiHZA4aJouk/Twelve-Trips)**
 
@@ -47,7 +49,7 @@
 
 ## 🛠️ Tools
 
-Figma (auto layout, components, prototyping)
+Figma (auto layout, components, prototyping) for the design. React, Vite, Node, Express and SQLite for the app in [`app/`](app/).
 
 ## 👩‍🎨 Designer
 
